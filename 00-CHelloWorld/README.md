@@ -1,3 +1,3 @@
 # ssl
 
-gcc.exe (MinGW.org GCC Build-2) 9.2.0
+gcc.exe (Rev4, Built by MSYS2 project) 15.1.0
